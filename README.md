@@ -61,26 +61,32 @@ https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 
 DEPORTES
 
-https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
-f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
-
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPy4rebCSMiU4y7HKK71UtXuG11tiKXZ7ZzPe_MHHqSpNwxJp46LEX9Nv0ziwo09_yFu-GsOlzxQOB7q3QGXPt4LoVaXgSpXYveD7vJME1PGdlSgcMmt-YYzM8YmHbSxFWBk07cfZLFrzS5hOHWqxwIpqdvRb9Q8pDos_TyIcffdkm5SXVgoztudqngtA/s3191/tyc-2022.png" group-title="Regional", TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd
-2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+
+#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbXuKOtCAFkMLw7TVdOEsuJTmZW55hbDEVWQWGA2UTkgkHDAYAtsiRL5_f5PGq-7unNvP25zjxbK2hLV0C_dr-4TGDixhVTamUpsjIZ9X1JUfAEoZLPFiMheLQpeAM7WqxCujpnTkhUtDIJzvKTx0thvKVFyo_LcEQTh0hdQm8okkhTE2zBmBZ7M_/s3084/DeporTV-2020.png" group-title="Regional", DeporTV
+https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
+
+
+
+
+
+
 
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd
-e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+
 
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd
-65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+
 
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd
-f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+
 
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
-cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+
 
 https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_PY.mpd
-2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
+
 
 https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_PY.mpd
 4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
