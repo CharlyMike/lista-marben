@@ -59,7 +59,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD8971
 #EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional", Mix TV
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd
 
-#DEPORTES
+
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://w7.pngwing.com/pngs/290/978/png-transparent-logo-tyc-sports-brand-trademark-mosaic-blue-text-highdefinition-video.png" group-title="Deportes", TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd
@@ -67,16 +67,16 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbXuKOtCAFkMLw7TVdOEsuJTmZW55hbDEVWQWGA2UTkgkHDAYAtsiRL5_f5PGq-7unNvP25zjxbK2hLV0C_dr-4TGDixhVTamUpsjIZ9X1JUfAEoZLPFiMheLQpeAM7WqxCujpnTkhUtDIJzvKTx0thvKVFyo_LcEQTh0hdQm8okkhTE2zBmBZ7M_/s3084/DeporTV-2020.png" group-title="Deportes", DeporTV
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd
 
-
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://p1.hiclipart.com/preview/52/176/876/tv-channel-icons-pack-espn2-color-png-icon.jpg" group-title="Deportes", ESPN 2
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd
+
+
+
+
+
 
 
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd
