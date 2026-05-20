@@ -41,30 +41,23 @@ https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xGt2HJluLlo8DqeiejV43_931sifwekyubnOyBT6NnF3LMxvPAEeCdf5jRqnAdUr0wXWCbgIAsjMls72pZdC3U-S2B3B9WR4J2-CPGCHFnFSPPvoylt77duV3iX21B-bh-0YF2x6QGvjiAk4LRk5WDW3LYD_BMxceb0epf9dpb4-rq28DR6gIoBVMPU/s720/encuentro_2024.png" group-title="Regional", Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
 
-
-
-
-
-https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
-
-
-https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd
-
-
+#EXTINF:-1 tvg-id="Bravo TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqoFy6uRZnJz870K2E_mzQgp7xOKycxxdAKiEwMYMGpiJ1VgZI7BnaYaxd8sRHr9YnSo_nHE6LqZzLAhZ2farKbdQMESQKvQVWVlBFZsUCfnbFIYUrgR2xvywyaU6XkCSI5TK65nK6qeaZMmucJytcEmPqJVIWSepGfk6ZB9uiMzx88nDoBAH2FE8KICU/s83/bravotv-transp.png" group-title="Regional", Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd
 
+#EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag2IYhQ84VHo5cPDG2GzgRhXxCx71cGl3SmrNDFoDGxfK-DlAQHL5mEgJBFyfFyAGTCpWlfSU8VfYzBFQMIcNcOfV53vLVpGwXoePCLwF1iQ3IprsYO6qSbgW5M3bRtTmrtPHgjDJmf3f1cP0zZubS6nS8aRrI9klOQ2rMxbN8nL90RoW5uQcFEb/s1728/cnne.png" group-title="Regional", CNN en Español
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
 
+#EXTINF:-1 tvg-id="Investigacion Periodistica" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="Regional", Investigacion Periodistica
+https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd
+
+#EXTINF:-1 tvg-id="KZO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" group-title="Regional", KZO
 https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/KZO.mpd
 
-
+#EXTINF:-1 tvg-id="Diputados" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4NtnGUqto0qq6YmwApVbEASPBjC3UqoEOd-boihMOauWWeqjcZoDdJetUFCO-SGDmEVA6wyjucL-MYtvysRZhOzJ2Yd33P8pkXQbXdpVU4orDsS9bPQSBEz-HsfuYgjn3fisXyi3mo_vyd9ppFoKc0nCgMRLKO-WY12J3vhpJV82NLoIwe4vxGXe0=s215" group-title="Regional", Diputados
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd
 
-
+#EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional", Mix TV
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd
-
-
-https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_90.mpd
-
 
 DEPORTES
 
