@@ -2,62 +2,62 @@
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="General", América TV
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="Provinciales", Metro
+#EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="General", Metro
 https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd
 
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Provinciales", TELEFE
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="General", TELEFE
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd
 
-EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Provinciales", Todo Noticias
+EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Noticias", Todo Noticias
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd
 
 
 
 
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd
-f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+
 
 https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C5N.mpd
-050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+
 
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CronicaTV.mpd
-745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+
 
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/26_TV_HD.mpd
-e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+
 
 https://cdn.cvattv.com.ar/live/c7eds/America24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America24.mpd
-3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+
 
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Magazine.mpd
-4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+
 
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Net_TV.mpd
-89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+
 
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
-ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+
 
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
-0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+
 
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd
-5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+
 
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd
-ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+
 
 https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/KZO.mpd
-695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+
 
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd
-9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
+
 
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd
-0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+
 
 https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_90.mpd
-ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
+
 
 DEPORTES
 
