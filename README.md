@@ -79,50 +79,20 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s2560/espn4.png" group-title="Deportes", ESPN 4
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
 
-
-
-
-
-
-
-https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_PY.mpd
-
-
-https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_PY.mpd
-4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
-
-https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_UY.mpd
-6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_PY.mpd
-0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
-
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_UY.mpd
-0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-
-https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3_Uy-Py.mpd
-ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
-
-https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos2_PY.mpd
-0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6
-
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN4.mpd
-24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3_UY.mpd
-5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2_UY.mpd
-5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAdcPH5aK4RA9Q3o78d-nBsYii80x0-F0NO4j6Jj4N-BWITMxKx4kCA3pqJ0Y2cNmx_04IweBr055IB58rjG8yxOukqTQQNhzQMquJ6gXYkj67-3hxatG_CzN63IjJK6RSHv4RDmjlWLrFdLSkDsarXmSxKlMFKkcio5l1qw45oU23-gk1_DuGbQ0LvwI/s960/Fox_Sports2026.png" group-title="Deportes", FOX Sports
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd
-cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYXMelDQLsMBcGvwtZ0Vj4kRJtk-7fmN116uvUUrSpp0l6TG0VsvFs1UMsvRmnFV5NMKk89WJ_eFWl13qRKbf-ihvC7buwt-b1alyuwHCHatiLCE3xvAqeZ2ZUTHC9uQOHSQOAIj9Liy9oBPpXjjhgw9XCQce19U0HU_4phP9FNXX57S2EIS96JSMk6s/s200/fox-sports-2-argentina.png" group-title="Deportes", FOX Sports 2
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd
-c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 
+#EXTINF:-1 tvg-id="FOX Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXlr-aZPoHcS9gQ_1TQy2O1DXBd9UQxl8_hBU_2V5yaqD_aQE02S5eKKGDJXaIheSUV8lwjH0qOnsURXtvC-rQKMyNCp3kepe8hn37Zr97mNwD_kMveUUfsihWIBwVx-giODw9HttkO0hSRs8c8Fbm38c_lUAwBsRKsTOSQfFu97QX0vEd8yP692f/s200/fsp3-2023.png" group-title="Deportes", FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd
-55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+
+
+
+
+
+
 
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd
 d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
