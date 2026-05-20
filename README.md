@@ -14,6 +14,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 #EXTINF:-1 tvg-id="TELEFE HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="General", TELEFE HD
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd
 
+#EXTINF:-1 tvg-name="TELEFE SANTA FE" tvg-logo="https://images.seeklogo.com/logo-png/50/1/telefe-santa-fe-2018-logo-png_seeklogo-503363.png" group-title="Nacionales",TELEFE SANTA FE
+https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Noticias", Todo Noticias
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd
 
