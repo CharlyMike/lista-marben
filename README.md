@@ -2,17 +2,9 @@
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="General", América TV
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="Canal2" tvg-logo="https://url-de-la-imagen.com/logo2.png" group-title="Deportes",Nombre del Canal 2
-http://servidor.com/live/stream2.mp4
-
-
-
-https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Info_Mora.mpd
-
-https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Info_Flow.mpd
-
+#EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="Deportes", Metro
 https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd
-719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+
 
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
 8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
