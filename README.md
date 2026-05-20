@@ -26,16 +26,17 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pairz7rTZeAzlv9zs4qk_lEBdRsRLvvtRnE3JreuICroX2n_T9YhWiPmtZkNxNHFvIczJ3AsEZbeCG7w2-bdKC8sON2pyh2y9Hk7v1kwKwxk2Rn6Rp3q3rcWGcysoPoqKlIRg2-I-BiE3T0Jvjg2K4XGw65i5PPgxr6BcXxm4Qfq7MF54rnJ9rxP_ng/s500/cronica-c.png" group-title="Noticias", Cronica TV
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CronicaTV.mpd
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Canal 26" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgjYWCgWa9xUv8yHEUtK4gD_gdQ4bMlbi3zcYk3u1ors-f2EK6HAAp-9OA-vCgfJ4A0fuJBzsCF8mE1iWSkBTyar4m06s3D7aLO0n_ywscCB5DNS4MwvGQBqPE1ZaC0qpEb7MnMY_BkMkyXfgiBS8rj0JSBkyINCmNvZ93XWOBijbyrqsCSfR8NoWNv=s1200" group-title="Mendoza", Canal 26
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/26_TV_HD.mpd
+
+
+
+
+
+
+
+
+
 
 
 https://cdn.cvattv.com.ar/live/c7eds/America24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America24.mpd
