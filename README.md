@@ -9,20 +9,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd
 3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 
-
-
-
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7.mpd
-cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ArtearHD.mpd
-5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd
-24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-
+EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Provinciales", Todo Noticias
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd
 7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+
+
+
 
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd
 f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
