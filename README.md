@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="América TV" tvg-logo="https://url-de-la-imagen.com/logo1.png" group-title="General", América TV
+#EXTINF:-1 tvg-id="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="General", América TV
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
 
 #EXTINF:-1 tvg-id="Canal2" tvg-logo="https://url-de-la-imagen.com/logo2.png" group-title="Deportes",Nombre del Canal 2
