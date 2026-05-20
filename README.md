@@ -5,12 +5,12 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD
 #EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="Provinciales", Metro
 https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd
 
-#EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="Provinciales", América TV
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
-
-
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Provinciales", TELEFE
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd
 3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+
+
+
 
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7.mpd
 cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
