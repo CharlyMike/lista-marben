@@ -70,7 +70,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography.png" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://p1.hiclipart.com/preview/52/176/876/tv-channel-icons-pack-espn2-color-png-icon.jpg" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://images.seeklogo.com/logo-png/4/3/espn-2-logo-png_seeklogo-49202.png" group-title="Deportes", ESPN 2
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd
 
 
