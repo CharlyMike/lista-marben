@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="Canal 9 Televida" tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/tvlogos/9Televida.png" group-title="General", Canal 9 Televida
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8
 
+#EXTINF:-1 tvg-id="El Siete TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="General", El Siete TV
+https://www.youtube.com/embed/Vh8xmLBJtR8
 
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="General", América TV
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
