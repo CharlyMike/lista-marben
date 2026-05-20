@@ -59,12 +59,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD8971
 #EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional", Mix TV
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd
 
-DEPORTES
+#DEPORTES
 
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPy4rebCSMiU4y7HKK71UtXuG11tiKXZ7ZzPe_MHHqSpNwxJp46LEX9Nv0ziwo09_yFu-GsOlzxQOB7q3QGXPt4LoVaXgSpXYveD7vJME1PGdlSgcMmt-YYzM8YmHbSxFWBk07cfZLFrzS5hOHWqxwIpqdvRb9Q8pDos_TyIcffdkm5SXVgoztudqngtA/s3191/tyc-2022.png" group-title="Regional", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://w7.pngwing.com/pngs/290/978/png-transparent-logo-tyc-sports-brand-trademark-mosaic-blue-text-highdefinition-video.png" group-title="Deportes", TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd
 
-#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbXuKOtCAFkMLw7TVdOEsuJTmZW55hbDEVWQWGA2UTkgkHDAYAtsiRL5_f5PGq-7unNvP25zjxbK2hLV0C_dr-4TGDixhVTamUpsjIZ9X1JUfAEoZLPFiMheLQpeAM7WqxCujpnTkhUtDIJzvKTx0thvKVFyo_LcEQTh0hdQm8okkhTE2zBmBZ7M_/s3084/DeporTV-2020.png" group-title="Regional", DeporTV
+#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbXuKOtCAFkMLw7TVdOEsuJTmZW55hbDEVWQWGA2UTkgkHDAYAtsiRL5_f5PGq-7unNvP25zjxbK2hLV0C_dr-4TGDixhVTamUpsjIZ9X1JUfAEoZLPFiMheLQpeAM7WqxCujpnTkhUtDIJzvKTx0thvKVFyo_LcEQTh0hdQm8okkhTE2zBmBZ7M_/s3084/DeporTV-2020.png" group-title="Deportes", DeporTV
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
 
 
