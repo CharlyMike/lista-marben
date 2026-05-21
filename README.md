@@ -15,6 +15,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 #EXTINF:-1 tvg-id="TELEFE HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE HD
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd
 
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://www.artear.com/wp-content/uploads/2024/04/logo-color-1-1-e1747942484685.png" group-title="Regional",Canal 9
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd
+
 #EXTINF:-1 tvg-id="Artear HD" tvg-logo="https://www.artear.com/wp-content/uploads/2024/04/logo-color-1-1-e1747942484685.png" group-title="Regional",Artear HD
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ArtearHD.mpd
 
