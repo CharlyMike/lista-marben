@@ -186,7 +186,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/sa_dash_full_e_7CF9BB041AD89713AD
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdM6CkAfJDajpuJVZm5uol-OK8_G5ijN5MbQMvU7sk1pi2FbO8sy1hPGFa2fUb06meQra8xhWIzKzVdSfQDS2ba_uirNpHZUFXDNkyBk8t-BPzsa36P6y6UWmfutELQGFyCSSi8-lDw0Gu6aonXjb7J8RrtZhTz_ANegBQqWaiIumrqn6AySaulMB/s1200/fx-log.png" group-title="Cine y Series",FXHD
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FXHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="Cine y Series",FOX HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8LtbVw3bN54wvPU4FVYwac6hFUNk1WNsXo3zhA6p7U94ywkXve-VsZ11nY2AyBhOnzynBe7vIoGCVNhS-BjRvZHMyiNI-okl0IMzcwaaeax6SpZpYKlhIVSx_tyHcPNm9EQGbKX0o_VY/s320/Star-Channel-2021.png" group-title="Cine y Series",Star Channel
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FOXHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA9ictSqFwCI-2Mbq2ucfGcwC04HZS2Ljf5wDq1TmMHtywRPOselXQAgMGAUnvJmX4h3m7ogJOu0oY7LFK_N7IfktwHZnu973tGf8nKLmBb4oygnsThL9KCmdZW1rKQLiyPIHBspsctPMryqRjngslQTma7sTJk43t8Ad2WyPv95cJM21QP5bJLt3EICs/s200/Sony_Channel_2023.png" group-title="Cine y Series",SonyHD
