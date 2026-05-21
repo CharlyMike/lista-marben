@@ -255,7 +255,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Pasiones/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Z3WNRcnuhTxMOlZtslC2MAwymXrWLNNgi-_LHvFmxlavSH6_taHFqfXqLKVIKpDJUVzZOc2NsVbXG-JIZnNkrQxdStUBocGNL3nJsE-GTeZJYkA66LWkD_iA79me5t1F3EceZStySek/s340/TelemundoInternacional-2018.png" group-title="Cine y Series",Telemundo HD
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telemundo_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/19-197362_cartoon-network-tv-channel-icon-tbs-network-logo.png" group-title="Cine y Series",TBS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixDbMG-mUGWT-aosM9xztsLmBpVSmbv2Ua2epBG4xT9YZYDXgosNj49inET7o3Pou4CY9AwprcXIvT2YL7NNeOSDxIwaC5OX_ZcZxgslSeS6qSUMBILjhRUIxrXxHodChHEhJ8s3iwZ72VNR7x8uI0HP_GUJoci4b6SMEBIjug839Z4GdpRMCBGqXo/s252/tnt-novelas-logo.png" group-title="Cine y Series",TNT Novelas
 https://cdn.cvattv.com.ar/live/c6eds/TBS/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TBS.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8e0MLkkrza3ATipMVHNVJHcDQ6oB1FW7OxvnO76YggIEPg4deEw-9mcAARsE3h-IynTEZqQMViIoMxYaQlTLxHGEFphGF7wy-sMQ8yvxFQR2XxDEzY7_qoSXAXVIxhFYSmNP5QltIkA/s800/tlnovelas_2020.png" group-title="Novelas",Telenovelas
