@@ -10,10 +10,10 @@ https://www.youtube.com/embed/Vh8xmLBJtR8
 https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd
 
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="Regional",América TV
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AmericaTV.mpd
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE HD
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TelefeHD.mpd
+https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Regional",TV Pública
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7.mpd
@@ -22,10 +22,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp" group-title="Regional",El Trece
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ArtearHD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Noticias",Todo Noticias
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 #EXTINF:-1 tvg-id="La Nación" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagOUGI6mYsjfV__VlNxoGT9WD-J-R_VJsryt7qGsrH3W194WLEudyK57rg27s27CpFuBU1U3jI21INplrlw35MRBg7HnoXg0JOwXPejr3x2Q_FyDgVOdDKs7MR40C_TDji7jomapCBybb7OH8D_wS4aDVYj1shi7lJ8DA8hWARu2iZg2sawkdcW7p/s544/LANACION-MAS.png" group-title="Noticias",La Nación
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd
@@ -34,16 +34,16 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD
 https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C5N.mpd
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pairz7rTZeAzlv9zs4qk_lEBdRsRLvvtRnE3JreuICroX2n_T9YhWiPmtZkNxNHFvIczJ3AsEZbeCG7w2-bdKC8sON2pyh2y9Hk7v1kwKwxk2Rn6Rp3q3rcWGcysoPoqKlIRg2-I-BiE3T0Jvjg2K4XGw65i5PPgxr6BcXxm4Qfq7MF54rnJ9rxP_ng/s500/cronica-c.png" group-title="Noticias",Cronica TV
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CronicaTV.mpd
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal 26" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgjYWCgWa9xUv8yHEUtK4gD_gdQ4bMlbi3zcYk3u1ors-f2EK6HAAp-9OA-vCgfJ4A0fuJBzsCF8mE1iWSkBTyar4m06s3D7aLO0n_ywscCB5DNS4MwvGQBqPE1ZaC0qpEb7MnMY_BkMkyXfgiBS8rj0JSBkyINCmNvZ93XWOBijbyrqsCSfR8NoWNv=s1200" group-title="Noticias",Canal 26
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/26_TV_HD.mpd
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="America 24" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4_EDrIzSRgg1JztU3NtSO59enD3wh7b3LHdcSSCkoaLJbVOs_s90X7g-of6P_XtjRtuEAL3TQA8A-Tmg_OJqefs-Ol9Lb28kQhziiYXW4XA0b7blqj6q_ViyndF9grjoTA8e84hrXh_Q7pIf1aUzzH_yRkjC58fsclM_Vnz26GIibOfnFgAmmiulKNc/s312/a24-2025.png" group-title="Noticias",America 24
-https://cdn.cvattv.com.ar/live/c7eds/America24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America24.mpd
+https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-id="Net TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj3wEquC2ULqxlDddF7UoEIPnl8a5ysiEvHZbnZIgaZpk3i4Y-EzpDJMFytP-6HBfupUk-B-7dTKy3-5ilPdMLn-nkpH1NPIEiTgDsdSl3EpNGpVxGDvnGbXxcH1MAP2kzAvSC4nif6iiJDmiVL4SD7v6jIsmNBf2Q2uwUkiPFys-pbPQCzI-q-FNse" group-title="Regional",Net TV
-https://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Net_TV.mpd
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magazine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVZGqjU3gB6_G1dS3cQfJnFmfVzdLCrVBTAmyXeYNMByaCC38TnohtperQIyZdCHRi1PfMwyKix16TUvG7ny2jI303ac_vM3-p4dWtbKxvABW8o69-KVSR1xvpf_2DgcpJlqd6goIdOk/s1600/ciudadmagazine.png" group-title="Regional",Magazine
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Magazine.mpd
@@ -52,7 +52,8 @@ https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
 
 #EXTINF:-1 tvg-id="Bravo TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqoFy6uRZnJz870K2E_mzQgp7xOKycxxdAKiEwMYMGpiJ1VgZI7BnaYaxd8sRHr9YnSo_nHE6LqZzLAhZ2farKbdQMESQKvQVWVlBFZsUCfnbFIYUrgR2xvywyaU6XkCSI5TK65nK6qeaZMmucJytcEmPqJVIWSepGfk6ZB9uiMzx88nDoBAH2FE8KICU/s83/bravotv-transp.png" group-title="Regional",Bravo TV
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd
+[https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd](https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+)
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag2IYhQ84VHo5cPDG2GzgRhXxCx71cGl3SmrNDFoDGxfK-DlAQHL5mEgJBFyfFyAGTCpWlfSU8VfYzBFQMIcNcOfV53vLVpGwXoePCLwF1iQ3IprsYO6qSbgW5M3bRtTmrtPHgjDJmf3f1cP0zZubS6nS8aRrI9klOQ2rMxbN8nL90RoW5uQcFEb/s1728/cnne.png" group-title="Regional",CNN en Español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
@@ -100,7 +101,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD8971
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" group-title="Deportes",El Garage
-https://cdn.cvattv.com.ar/live/c6eds/El_Garage/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/El_Garage.mpd
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMC_bkB0q3174rtVDCk2BdTV1rEp3HPjuvFZh8VdYIWi0Sdwfbbd5yGCFvHs_9s7a9yK9_Mno10ygKWc6fe4duvxm2ujstIZn3JqdgeaHiRjffO6f6o2GYEV-VybikpdxykK_wGIIc11oRv9aKQIVjeWwGNOQVgxcm9r1VoHbEk9lFHVp4NrRcPhUTUgY/s786/golf-ch-2025.png" group-title="Deportes",Golf Channel
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Golf_Channel.mpd
@@ -153,7 +154,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/sa_dash_full_e_7CF9BB041AD89
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxGJwstkFrrKNzh8PCfr985cdEJWG1_hElWMe2ejHnpe0lWpQ523MuBTKmbSvNnPuWeR4ig4pPlzE7DdW-F2e1riZPGqFz0y1y5KGnuLxBLWRkNOk-oKNI-hzQG9VHQJyLxvRZQjCkDrg/s2560/Cartoonito-2021.png" group-title="Infantiles",Boomerang
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Boomerang.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DE7NdBo3opgFzf9pYAcl8OP33O1-uMJ_Am2lu1U8fKTZxG8q0j51g1VBxWwhOm-1Ozazh5Md50lQqjhy0uzo1BFHG_iJP7jaImXvcimhq06pEpNDlEgkxS7aj1bTCpXsAWp6wfYRL_zO7pGb1BKSIV6roB2Vm3VsHwuNXFTe77-tColQdafoMtpNuyc/s1000/disney.png" group-title="Infantiles",DisneyJr
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DE7NdBo3opgFzf9pYAcl8OP33O1-uMJ_Am2lu1U8fKTZxG8q0j51g1VBxWwhOm-1Ozazh5Md50lQqjhy0uzo1BFHG_iJP7jaImXvcimhq06pEpNDlEgkxS7aj1bTCpXsAWp6wfYRL_zO7pGb1BKSIV6roB2Vm3VsHwuNXFTe77-tColQdafoMtpNuyc/s1000/disney.png" group-title="Infantiles",Disney Jr
 https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyJr.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIDJjM-45d01Ksygp3eLPkRQFCxc2B_S-pg3qyrrScCaapsy9fxSb72jP7A-ebA3QO9b3Eby6IxN7KGJ6v6GunWV5y5SaeJDjq7jTKAv4zm_bkIf4iNxUrTOzq7yOXgJmz1RYt7KKOtQM/s500/babytv-2017.png" group-title="Infantiles",BabyTV
@@ -226,7 +227,7 @@ https://cdn.cvattv.com.ar/live/c7eds/USA_Network/sa_dash_full_e_7CF9BB041AD89713
 https://cdn.cvattv.com.ar/live/c6eds/TCM/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TCM.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlekb3wmz32jSlTYKlQCI4U1g89JGjvXL8mKvVuqaiAUZT4YjC-v-LRlZNpAiXMlDVjjzi7FissVD_5_H8PeIBA7SzhpfuBwtnbROXDARmACJy7wCLQE-O1Wd-c2TjKU_sKbPNVEP43I/s1600/AMC_2016.png" group-title="Cine y Series",AMC
-https://cdn.cvattv.com.ar/live/c3eds/AMC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC.mpd
+https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlekb3wmz32jSlTYKlQCI4U1g89JGjvXL8mKvVuqaiAUZT4YjC-v-LRlZNpAiXMlDVjjzi7FissVD_5_H8PeIBA7SzhpfuBwtnbROXDARmACJy7wCLQE-O1Wd-c2TjKU_sKbPNVEP43I/s1600/AMC_2016.png" group-title="Cine y Series",AMC Series
 https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC_Series.mpd
