@@ -48,6 +48,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magazine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVZGqjU3gB6_G1dS3cQfJnFmfVzdLCrVBTAmyXeYNMByaCC38TnohtperQIyZdCHRi1PfMwyKix16TUvG7ny2jI303ac_vM3-p4dWtbKxvABW8o69-KVSR1xvpf_2DgcpJlqd6goIdOk/s1600/ciudadmagazine.png" group-title="Regional",Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Regional",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xGt2HJluLlo8DqeiejV43_931sifwekyubnOyBT6NnF3LMxvPAEeCdf5jRqnAdUr0wXWCbgIAsjMls72pZdC3U-S2B3B9WR4J2-CPGCHFnFSPPvoylt77duV3iX21B-bh-0YF2x6QGvjiAk4LRk5WDW3LYD_BMxceb0epf9dpb4-rq28DR6gIoBVMPU/s720/encuentro_2024.png" group-title="Regional",Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
 
