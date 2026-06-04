@@ -15,7 +15,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="TELEFE HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE HD
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Regional",TV Pública
+#EXTINF:-1 tvg-id="TV Pública" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Regional",TV Pública
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="Regional",Canal 9
@@ -100,13 +100,13 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD8971
 #EXTINF:-1 tvg-id="FOX Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXlr-aZPoHcS9gQ_1TQy2O1DXBd9UQxl8_hBU_2V5yaqD_aQE02S5eKKGDJXaIheSUV8lwjH0qOnsURXtvC-rQKMyNCp3kepe8hn37Zr97mNwD_kMveUUfsihWIBwVx-giODw9HttkO0hSRs8c8Fbm38c_lUAwBsRKsTOSQfFu97QX0vEd8yP692f/s200/fsp3-2023.png" group-title="Deportes",FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Y74v8BbyDJEKpGH9jZU4T0gP9nuvB5VTfaq6pEktHRe6JDeSJMQuBqdHPsneesfn4PPcV12UcUkY8Buv18PgELZWSgQWw-xBkR-JnEuJsjKYi48PRSVHalI38R5VZjLba1HzLzlr_Y/s1600/nbatv-2009.gif" group-title="Deportes",NBA TV
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Y74v8BbyDJEKpGH9jZU4T0gP9nuvB5VTfaq6pEktHRe6JDeSJMQuBqdHPsneesfn4PPcV12UcUkY8Buv18PgELZWSgQWw-xBkR-JnEuJsjKYi48PRSVHalI38R5VZjLba1HzLzlr_Y/s1600/nbatv-2009.gif" group-title="Deportes",NBA TV
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" group-title="Deportes",El Garage
+#EXTINF:-1 tvg-id="El Garage TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" group-title="Deportes",El Garage
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMC_bkB0q3174rtVDCk2BdTV1rEp3HPjuvFZh8VdYIWi0Sdwfbbd5yGCFvHs_9s7a9yK9_Mno10ygKWc6fe4duvxm2ujstIZn3JqdgeaHiRjffO6f6o2GYEV-VybikpdxykK_wGIIc11oRv9aKQIVjeWwGNOQVgxcm9r1VoHbEk9lFHVp4NrRcPhUTUgY/s786/golf-ch-2025.png" group-title="Deportes",Golf Channel
+#EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMC_bkB0q3174rtVDCk2BdTV1rEp3HPjuvFZh8VdYIWi0Sdwfbbd5yGCFvHs_9s7a9yK9_Mno10ygKWc6fe4duvxm2ujstIZn3JqdgeaHiRjffO6f6o2GYEV-VybikpdxykK_wGIIc11oRv9aKQIVjeWwGNOQVgxcm9r1VoHbEk9lFHVp4NrRcPhUTUgY/s786/golf-ch-2025.png" group-title="Deportes",Golf Channel
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Golf_Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcCwsIYYBXaKioFxtCoHOLUKiXdiaLUsjt6mJTxQgtk21J_f2ecrTo1jKzlbcPuuyVIQRM7of85s3gNR2i1z_zLg_-hgiy4t4TUCSqNWKJyBbICjtQ_7PAYbG6Ydkx3aGE8P5c8yMUdRuc_md0wx7UulOQHjXixz71-wjrXScb3Xij8qu3xwb_GdI-/s200/1639.png" group-title="Deportes",PX Sports
