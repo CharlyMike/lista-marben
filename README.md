@@ -72,14 +72,20 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF
 #EXTINF:-1 tvg-id="Diputados" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4NtnGUqto0qq6YmwApVbEASPBjC3UqoEOd-boihMOauWWeqjcZoDdJetUFCO-SGDmEVA6wyjucL-MYtvysRZhOzJ2Yd33P8pkXQbXdpVU4orDsS9bPQSBEz-HsfuYgjn3fisXyi3mo_vyd9ppFoKc0nCgMRLKO-WY12J3vhpJV82NLoIwe4vxGXe0=s215" group-title="Regional",Diputados
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd
 
-#EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional",Mix TV
+#EXTINF:-1 tvg-id="Argentinisima Satelital" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional", Mix TV
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd
+
+#EXTINF:-1 tvg-id="DW en Español" tvg-logo="https://telechancho.github.io/tvlogos/DW.png" group-title="Regional",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="RT en Español" tvg-logo="https://telechancho.github.io/tvlogos/RT.png" group-title="Regional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://img.favpng.com/18/5/2/logo-tyc-sports-brand-trademark-png-favpng-rQvAXe2sEfkjKNSSBBH8FZ77d.jpg" group-title="Deportes",TyC Sports
-https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd
+https://broker.cdn.rcs.net.ar/mnp/tzeohupdr68s7sld3fejjidm9e2hxjoe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbXuKOtCAFkMLw7TVdOEsuJTmZW55hbDEVWQWGA2UTkgkHDAYAtsiRL5_f5PGq-7unNvP25zjxbK2hLV0C_dr-4TGDixhVTamUpsjIZ9X1JUfAEoZLPFiMheLQpeAM7WqxCujpnTkhUtDIJzvKTx0thvKVFyo_LcEQTh0hdQm8okkhTE2zBmBZ7M_/s3084/DeporTV-2020.png" group-title="Deportes",DeporTV
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
