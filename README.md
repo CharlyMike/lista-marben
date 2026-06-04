@@ -16,13 +16,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Regional",TV Pública
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal7.mpd
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="Regional",Canal 9
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp" group-title="Regional",El Trece
-https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Noticias",Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
@@ -54,6 +54,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD
 #EXTINF:-1 tvg-id="Bravo TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqoFy6uRZnJz870K2E_mzQgp7xOKycxxdAKiEwMYMGpiJ1VgZI7BnaYaxd8sRHr9YnSo_nHE6LqZzLAhZ2farKbdQMESQKvQVWVlBFZsUCfnbFIYUrgR2xvywyaU6XkCSI5TK65nK6qeaZMmucJytcEmPqJVIWSepGfk6ZB9uiMzx88nDoBAH2FE8KICU/s83/bravotv-transp.png" group-title="Regional",Bravo TV
 [https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/BravoTV.mpd](https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 )
+
+#EXTINF:-1 tvg-id="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png" group-title="Regional",Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag2IYhQ84VHo5cPDG2GzgRhXxCx71cGl3SmrNDFoDGxfK-DlAQHL5mEgJBFyfFyAGTCpWlfSU8VfYzBFQMIcNcOfV53vLVpGwXoePCLwF1iQ3IprsYO6qSbgW5M3bRtTmrtPHgjDJmf3f1cP0zZubS6nS8aRrI9klOQ2rMxbN8nL90RoW5uQcFEb/s1728/cnne.png" group-title="Regional",CNN en Español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
