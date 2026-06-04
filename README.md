@@ -45,8 +45,8 @@ https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_7
 #EXTINF:-1 tvg-id="Net TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj3wEquC2ULqxlDddF7UoEIPnl8a5ysiEvHZbnZIgaZpk3i4Y-EzpDJMFytP-6HBfupUk-B-7dTKy3-5ilPdMLn-nkpH1NPIEiTgDsdSl3EpNGpVxGDvnGbXxcH1MAP2kzAvSC4nif6iiJDmiVL4SD7v6jIsmNBf2Q2uwUkiPFys-pbPQCzI-q-FNse" group-title="Regional",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Magazine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVZGqjU3gB6_G1dS3cQfJnFmfVzdLCrVBTAmyXeYNMByaCC38TnohtperQIyZdCHRi1PfMwyKix16TUvG7ny2jI303ac_vM3-p4dWtbKxvABW8o69-KVSR1xvpf_2DgcpJlqd6goIdOk/s1600/ciudadmagazine.png" group-title="Regional",Magazine
-https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Magazine.mpd
+#EXTINF:-1 tvg-id="Ciudad Magazine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVZGqjU3gB6_G1dS3cQfJnFmfVzdLCrVBTAmyXeYNMByaCC38TnohtperQIyZdCHRi1PfMwyKix16TUvG7ny2jI303ac_vM3-p4dWtbKxvABW8o69-KVSR1xvpf_2DgcpJlqd6goIdOk/s1600/ciudadmagazine.png" group-title="Regional",Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xGt2HJluLlo8DqeiejV43_931sifwekyubnOyBT6NnF3LMxvPAEeCdf5jRqnAdUr0wXWCbgIAsjMls72pZdC3U-S2B3B9WR4J2-CPGCHFnFSPPvoylt77duV3iX21B-bh-0YF2x6QGvjiAk4LRk5WDW3LYD_BMxceb0epf9dpb4-rq28DR6gIoBVMPU/s720/encuentro_2024.png" group-title="Regional",Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
