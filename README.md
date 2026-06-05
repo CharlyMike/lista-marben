@@ -69,7 +69,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7
 #EXTINF:-1 tvg-id="KZO Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" group-title="Regional",KZO Entertainment
 https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/KZO.mpd
 
-#EXTINF:-1 tvg-id="Diputados" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4NtnGUqto0qq6YmwApVbEASPBjC3UqoEOd-boihMOauWWeqjcZoDdJetUFCO-SGDmEVA6wyjucL-MYtvysRZhOzJ2Yd33P8pkXQbXdpVU4orDsS9bPQSBEz-HsfuYgjn3fisXyi3mo_vyd9ppFoKc0nCgMRLKO-WY12J3vhpJV82NLoIwe4vxGXe0=s215" group-title="Regional",Diputados
+#EXTINF:-1 tvg-id="Diputados" tvg-logo="https://github.com/MatiasBasado22/logostv_mundo/blob/main/Argentina/diputados@2x.png?raw=true" group-title="Regional",Diputados
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd
 
 #EXTINF:-1 tvg-id="Argentinisima Satelital" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglej8beUD9sarrwtjdodRyqNVdydjLhy1dSgvBlQj1gNMquYrVf-0ThH9oAAxQMCAztq6-o0GB50OjFOcNmEYGGZjMoad17lfXcoHfWzhgiWy_MzGb_4yArScsVlEbprth4TFzvZ06LO5VlUvUpt9nrfzEy7xIZKCVGykr7Mb7CIVTsOltKbKwd3Ea/s280/argentinisima-2023-svg.png" group-title="Regional",Argentinisima Satelital
