@@ -339,8 +339,8 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios",ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsD-FGlMSFNPpIkUEflEfkxtKqJcBYb0DdBE8UFLMFK8xrNlIFUxAyJfeByLle09MhmgQUHGpl1gO_CRcgdRRRWOUA5-U9RKrk7PXZyJneJheO1Ls5Av__5bfh4I8ly9I4R8ryTEdJnnJbh_mQQ_7itelXxzJUrbGQGXP0lzQrGLshtFRQh2xpJcEiHkM/s1280/Canal_Venus.png" group-title="Adultos",Venus
-https://cdn.cvattv.com.ar/live/c6eds/Venus/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Venus.mpd
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
+https://musicsrc.cvattv.com.ar/RRIV
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUWIzM2N0svbjRfM_qenMjlj9qTZFAifP5rsp1Bg5MKC0L2ebI9dkLckvllO1AF-96hS3RMoqCCSuBl_m3RT02kOSOT112A0RCAkTjl8fV_XMWCWn75oWfNi39vK5m9qxJ0C-RWggmEo/s1600/playbolytvla-2012.png" group-title="Adultos",Playboy
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Playboy.mpd
