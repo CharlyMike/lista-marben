@@ -345,6 +345,6 @@ https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtMdZqO8rOa9yd1cLU5cvaXKtXgHvQM5Xr-JHX9oVVdFkxNSh7GGUIGIioZrmAhTpLGvLaZ9xKZ_3aS2-guDkPsEj5EQ_bYBbukkl_DI3yvBEallrk7cqvcQVLC40VAny1PAC9VumBY_4NdqPCJpJk94Ng6e-335T67fs2GPjTNs9Bs-Ndb8k-U_n34Gg/s967/continental-2025-go.png" group-title="Radios","Radio La Red AM590
 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
 
-#EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
-https://musicsrc.cvattv.com.ar/RRIV
+#EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/logo/logo.svg" group-title="Radios", Radio Mitre
+https://buecrplb01.cienradios.com.ar/Mitre790.aac
 
