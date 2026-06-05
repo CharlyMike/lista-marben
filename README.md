@@ -123,6 +123,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/sa_dash_full_e_7CF9BB041AD8971
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcCwsIYYBXaKioFxtCoHOLUKiXdiaLUsjt6mJTxQgtk21J_f2ecrTo1jKzlbcPuuyVIQRM7of85s3gNR2i1z_zLg_-hgiy4t4TUCSqNWKJyBbICjtQ_7PAYbG6Ydkx3aGE8P5c8yMUdRuc_md0wx7UulOQHjXixz71-wjrXScb3Xij8qu3xwb_GdI-/s200/1639.png" group-title="Deportes",PX Sports
 https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PX_Sports.mpd
 
+
+#EXTINF:-1 tvg-id="FIFA+ Hispanic America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ Hispanic America
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYOdaj8OI6UolUjTH-vvhtgQ2QY2gtc4giTopje2xLnApV6x3sTi40kL5EFuCdD7gqdH2pdHuhmYQx7Nx2emNwT8jwYJbzTHSqw5wwXm6ShJ1FeSG2R3qP7mbXof244z_Vi4twN0I2MZQl-QkhdLzzc9IG4nw70dnd9e_IRp0jnYAAIu2AMP7qWZTA/s544/AMERICA-SP.png" group-title="Deportes",America Sports
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_Sports.mpd
 
