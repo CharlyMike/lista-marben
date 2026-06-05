@@ -333,7 +333,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Brava 104.7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER0zjWYcO1lpRKo0o-Q2UvJS8RgghRq3Glutya1qAvQ&s" group-title="Infantiles",Radio Brava 104.7
 http://190.106.134.222:8385/stream
 
-#EXTINF:-1 tvg-id="Radio Rivadavia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",RIVADAVIA
+#EXTINF:-1 tvg-id="Radio Rivadavia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",Radio Rivadavia
 https://musicsrc.cvattv.com.ar/RRIV
 
 #EXTINF:-1 tvg-id="Radio La 100" tvg-logo="https://cdn.brandfetch.io/idOtKLyX8K/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Radios",Radio La 100
@@ -341,6 +341,9 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 #EXTINF:-1 tvg-id="Radio Aspen 102.3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios",ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios","Radio La Red AM590
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
 
 #EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
 https://musicsrc.cvattv.com.ar/RRIV
