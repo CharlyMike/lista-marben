@@ -148,19 +148,19 @@ http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPy4rebCSMiU4y7HKK71UtXuG11tiKXZ7ZzPe_MHHqSpNwxJp46LEX9Nv0ziwo09_yFu-GsOlzxQOB7q3QGXPt4LoVaXgSpXYveD7vJME1PGdlSgcMmt-YYzM8YmHbSxFWBk07cfZLFrzS5hOHWqxwIpqdvRb9Q8pDos_TyIcffdkm5SXVgoztudqngtA/s3191/tyc-2022.png" group-title="Deportes",TyC Internacional
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvn_7ibzl_9CIsNQfahpuTm9lmA1dnpLiFGSc4only9RhmFm2xzGh09bvWQuPhi0mUArMHfwSdy--X07zBpY9fD4RGGs_-xGg3cb1Afx9Wy8GFNUc2K2MRRr_mfUtUjlXlysDiP5IpHQSV7G_eBh8KhKVaEdjWGOJBU2pcVCwKBO52sp-9mzDvIZt/s331/d-turbo.png" group-title="Documentales",DiscoveryTurbo
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvn_7ibzl_9CIsNQfahpuTm9lmA1dnpLiFGSc4only9RhmFm2xzGh09bvWQuPhi0mUArMHfwSdy--X07zBpY9fD4RGGs_-xGg3cb1Afx9Wy8GFNUc2K2MRRr_mfUtUjlXlysDiP5IpHQSV7G_eBh8KhKVaEdjWGOJBU2pcVCwKBO52sp-9mzDvIZt/s331/d-turbo.png" group-title="Documentales",Discovery Turbo
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAA4Rih4Yxic1IslxQLA15HbYqqNGRWuzpBFcqhbTnJ9KOnYBf5B1v3JEvXKaffLopFRREJjpJefdXvrEEzKN-KPgo2sWTFEOWvDwL1cEdfvde_M9b3YBDivfRu3NXBWReUxekg89HVBFS2hIEIhstXTNCv51lMKGCc0zagroDWqhxzfw2OEOvmb4d6a0/s287/pakapaka-2024.png" group-title="Infantiles",PAKA PAKA
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PAKA_PAKA.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghqO4Pm5HInmifyDSQsx_GtuM4aWzo7XHo25317Iyr34q5ouqVsQNucwpc2HNs7s7K8jf8wlFwdxPF8k43fZSrn_bjbOWUW4fu9gRSBTO6ec44Q_aQHqbnhR67eZ_W2XuTsYXTRxVDOhqAAxN6anaaW-6RgLrmwL2isjIvNmpaLCiFYpmwvIrrj9iddiI/s1000/DISNEYCH-2025.png" group-title="Infantiles",DisneyChannelHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghqO4Pm5HInmifyDSQsx_GtuM4aWzo7XHo25317Iyr34q5ouqVsQNucwpc2HNs7s7K8jf8wlFwdxPF8k43fZSrn_bjbOWUW4fu9gRSBTO6ec44Q_aQHqbnhR67eZ_W2XuTsYXTRxVDOhqAAxN6anaaW-6RgLrmwL2isjIvNmpaLCiFYpmwvIrrj9iddiI/s1000/DISNEYCH-2025.png" group-title="Infantiles",Disney Channel HD
 https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyChannelHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYWAJ3AOR7Eg3ET4uvmxATXf3NRgARNhL8sT09K3smkD-oe1wyptpZXc-tJm6g4mk0TZR-y49vZULJ6ZGJyGViOGXaNvzf44gTVQWcu5l8i5AoAjIEHkR4Pg99mv_9o7ydZEMKgWyhSKFynbo5F7Wdik5789WSe2KAaSHTOo6KkK3cnWvNnR_BYtJVwfo/s1759/Nickelodeon_2023-svg.png" group-title="Infantiles",Nickelodeon
 https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqLBv33WolliNZ3MbhYv8dEjnpGe8C5YJGk1SPDOce26RLuZs67ea7xyzlCSLoubXJtrdU8V5t7HC-4hdo7UPXOqO_srGGNqvSdNB-d6gBhOKbYZ0WWwFEPNy32_eOdMMfansh_jFsRcdq5SXkuixQSgahbJrezntkp-dt-dTlL97PTH6bJ4ZiDPd/s1445/cn-2012.png" group-title="Infantiles",CartoonNetwork
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqLBv33WolliNZ3MbhYv8dEjnpGe8C5YJGk1SPDOce26RLuZs67ea7xyzlCSLoubXJtrdU8V5t7HC-4hdo7UPXOqO_srGGNqvSdNB-d6gBhOKbYZ0WWwFEPNy32_eOdMMfansh_jFsRcdq5SXkuixQSgahbJrezntkp-dt-dTlL97PTH6bJ4ZiDPd/s1445/cn-2012.png" group-title="Infantiles",Cartoon Network
 https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CartoonNetwork.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjVONFbDJgC3J7ZljcPO_E9Iswip4q9sD2Lq4vFdqFb1cxncrOxytAkeTNHisRvN7L02YK2xsd1LbqQORocsU8A5ZJlpW4nLqKj0DEAjwPUaGPctMLks6e0NYUeTrQm7UxyH8Q-VfypE84_m9fMrm1AN04FmTOUXY7IcoVb3XxGxxcIMaoeDVgGnhqs=s1280" group-title="Infantiles",Dreamworks
@@ -202,22 +202,22 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_dash_full_e_7CF9BB041AD89713AD8CF
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidcDRsiGdAztCZGVk1FvwSUkU1sOYf9pK4cFXCAXQHGdLqSLR0MmJLAlaPx6entdLOIfx6JNxpS9kdktzFECRxa29usDglYDS5R55ovWpcrkFC7ywamurROwAVupJ_6R7ewUE9LGsX9bUYNfY0hfB9-al6M-qSuYtDQKOpa72j49oz6Mv7cZ3FQnwA=s800" group-title="Cine y Series",Space
 https://cdn.cvattv.com.ar/live/c3eds/Space/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Space.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHouTltT1eCDXQJ5p4fUU64NIOG1oIm-BXG7z4dx-5_qfMJDq1QJWdDnvT0DlKFuhjBV8-u19t7L48ZZdbBa9mLsCJszjbptrwTYuN-kdqF-rVEKhGHNTgXn4jFfT2Gl5lVMZL4H2Ps8/s270/Cinecanal2018.png" group-title="Cine y Series",CinecanalHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHouTltT1eCDXQJ5p4fUU64NIOG1oIm-BXG7z4dx-5_qfMJDq1QJWdDnvT0DlKFuhjBV8-u19t7L48ZZdbBa9mLsCJszjbptrwTYuN-kdqF-rVEKhGHNTgXn4jFfT2Gl5lVMZL4H2Ps8/s270/Cinecanal2018.png" group-title="Cine y Series",Cinecanal HD
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CinecanalHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="Cine y Series",TNT HD
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_HD_Arg.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="Cine y Series",TNTSeries
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="Cine y Series",TNT Series
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNTSeries.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdM6CkAfJDajpuJVZm5uol-OK8_G5ijN5MbQMvU7sk1pi2FbO8sy1hPGFa2fUb06meQra8xhWIzKzVdSfQDS2ba_uirNpHZUFXDNkyBk8t-BPzsa36P6y6UWmfutELQGFyCSSi8-lDw0Gu6aonXjb7J8RrtZhTz_ANegBQqWaiIumrqn6AySaulMB/s1200/fx-log.png" group-title="Cine y Series",FXHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdM6CkAfJDajpuJVZm5uol-OK8_G5ijN5MbQMvU7sk1pi2FbO8sy1hPGFa2fUb06meQra8xhWIzKzVdSfQDS2ba_uirNpHZUFXDNkyBk8t-BPzsa36P6y6UWmfutELQGFyCSSi8-lDw0Gu6aonXjb7J8RrtZhTz_ANegBQqWaiIumrqn6AySaulMB/s1200/fx-log.png" group-title="Cine y Series",FX HD
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FXHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8LtbVw3bN54wvPU4FVYwac6hFUNk1WNsXo3zhA6p7U94ywkXve-VsZ11nY2AyBhOnzynBe7vIoGCVNhS-BjRvZHMyiNI-okl0IMzcwaaeax6SpZpYKlhIVSx_tyHcPNm9EQGbKX0o_VY/s320/Star-Channel-2021.png" group-title="Cine y Series",Star Channel
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FOXHD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA9ictSqFwCI-2Mbq2ucfGcwC04HZS2Ljf5wDq1TmMHtywRPOselXQAgMGAUnvJmX4h3m7ogJOu0oY7LFK_N7IfktwHZnu973tGf8nKLmBb4oygnsThL9KCmdZW1rKQLiyPIHBspsctPMryqRjngslQTma7sTJk43t8Ad2WyPv95cJM21QP5bJLt3EICs/s200/Sony_Channel_2023.png" group-title="Cine y Series",SonyHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA9ictSqFwCI-2Mbq2ucfGcwC04HZS2Ljf5wDq1TmMHtywRPOselXQAgMGAUnvJmX4h3m7ogJOu0oY7LFK_N7IfktwHZnu973tGf8nKLmBb4oygnsThL9KCmdZW1rKQLiyPIHBspsctPMryqRjngslQTma7sTJk43t8Ad2WyPv95cJM21QP5bJLt3EICs/s200/Sony_Channel_2023.png" group-title="Cine y Series",Sony HD
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SonyHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipqpQJw2N8P-aAodSJbD51SJ-ov8sazE97YtUdqFa3FfqnCK5-nVBH2jCAxVJ7XuyCJjOgdeZLq31raKqNlHRBFPMsg6Ofk4rgbdfHE7divwxVyS238_9X3hPKT8l74WtWNyMKkUCSA7flnRWjTrGTet9UbRjGjT0B8jCpEt3EmRhRadSAT1n8oioU/s250/Warner_Logo_2015_ByN.webp" group-title="Cine y Series",Warner HD
@@ -226,7 +226,7 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="Cine y Series",Universal Channel HD
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRL2LSpadT1WmVWnwhm_AXGt1s5iuutEdVw-RdushgQIGWjeM7D8vw47kmzTRkAVQ4QuxZBYJVk9KSgwbvw1Yc9Xbh594IYMOGCgJBbC8MrDVr4s9rL5rWby1GScrNv7E2usiuyYIIIWc/s1600/axn-2016.png" group-title="Cine y Series",AXNHD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRL2LSpadT1WmVWnwhm_AXGt1s5iuutEdVw-RdushgQIGWjeM7D8vw47kmzTRkAVQ4QuxZBYJVk9KSgwbvw1Yc9Xbh594IYMOGCgJBbC8MrDVr4s9rL5rWby1GScrNv7E2usiuyYIIIWc/s1600/axn-2016.png" group-title="Cine y Series",AXN HD
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AXNHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh33RxvcT6wUiveh7jJqA-mn2W83zaWm0NRJmkSLWWH7khgnvC3-y1f93anzlgBX9coprnAlqjl94UqYJaQ6qf1rdB_Vn1KpgwjgaExAS6uf9EQhag3h20zdGMJ5-yeIeBIiorApE9gOYU/s1600/Studio-Universal-2016.png" group-title="Cine y Series",Studio Universal
@@ -307,7 +307,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/sa_dash_full_e_7CF9BB041AD89713AD8C
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOG-jF3XwZq0Zl_AE5Q84oJOL86Wr02_ZbaxyOAfRnq7RaDBGUL3XhMYJEJvl_aWrYPh5pQNN5Zn9Q9fl0dtWaIjvitGUeHi76ZSAlufVO7ag5eTi5M9SV90xhi1PsUAN0k2OfS_F_gWo/s120/hbo-xtreme.png" group-title="HBO",HBO Extreme
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid2zd8xVvB40kisLVX5EW2qfzqMA8ns7cqXJJXAMZ5jOsnNxkINxTDpdHflKfrsDdlf-jTCLZWi-9EuZ6P7KzYC-Xm2K3QUrYLgVFvduzTib0xUNRvaCxEElrhaFOS8ZtRyEQC3-OvNgc/s252/hbo-family-2021.png" group-title="HBO",HBO Family
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/20/1001/png-clipart-logo-hbo-brasil-hbo-family-graphics-hbo-plus-famili-text-logo-thumbnail.png" group-title="HBO",HBO Family
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Family.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMDEiPUapI0q6wSDS-kmpdTCUqEVDgkdhOWjgdkjcxAXzLKuhmZYid2jiKY3Ihlt2XabO3uZTl33sHrSnwcpO0xRicPqjfj90-D5_-XMh2WXvHJ9JCZPmxYqoYyIrqHDlQq5PBSnffCSw/s1600/hbo-signature.png" group-title="HBO",HBO Signature
