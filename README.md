@@ -330,6 +330,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image52393017150.jpg" group-title="Infantiles",Retro Mágico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Radio Brava 104.7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER0zjWYcO1lpRKo0o-Q2UvJS8RgghRq3Glutya1qAvQ&s" group-title="Infantiles",Radio Brava 104.7
+http://190.106.134.222:8385/stream
+
 #EXTINF:-1 tvg-id="Radio Rivadavia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",RIVADAVIA
 https://musicsrc.cvattv.com.ar/RRIV
 
