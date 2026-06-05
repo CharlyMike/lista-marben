@@ -51,7 +51,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://images.open-epg.com/x1006.png" group-title="Regional",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://static.flow.com.ar/images/686/CH_LOGO/60/40/0/0/1239356307477.png" group-title="Regional",Encuentro
+#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://images.open-epg.com/16782303.png" group-title="Regional",Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
 
 #EXTINF:-1 tvg-id="Bravo TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqoFy6uRZnJz870K2E_mzQgp7xOKycxxdAKiEwMYMGpiJ1VgZI7BnaYaxd8sRHr9YnSo_nHE6LqZzLAhZ2farKbdQMESQKvQVWVlBFZsUCfnbFIYUrgR2xvywyaU6XkCSI5TK65nK6qeaZMmucJytcEmPqJVIWSepGfk6ZB9uiMzx88nDoBAH2FE8KICU/s83/bravotv-transp.png" group-title="Regional",Bravo TV
