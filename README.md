@@ -72,7 +72,7 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF
 #EXTINF:-1 tvg-id="Diputados" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi4NtnGUqto0qq6YmwApVbEASPBjC3UqoEOd-boihMOauWWeqjcZoDdJetUFCO-SGDmEVA6wyjucL-MYtvysRZhOzJ2Yd33P8pkXQbXdpVU4orDsS9bPQSBEz-HsfuYgjn3fisXyi3mo_vyd9ppFoKc0nCgMRLKO-WY12J3vhpJV82NLoIwe4vxGXe0=s215" group-title="Regional",Diputados
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Diputados_TV.mpd
 
-#EXTINF:-1 tvg-id="Argentinisima Satelital" tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" group-title="Regional",Argentinisima Satelital
+#EXTINF:-1 tvg-id="Argentinisima Satelital" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglej8beUD9sarrwtjdodRyqNVdydjLhy1dSgvBlQj1gNMquYrVf-0ThH9oAAxQMCAztq6-o0GB50OjFOcNmEYGGZjMoad17lfXcoHfWzhgiWy_MzGb_4yArScsVlEbprth4TFzvZ06LO5VlUvUpt9nrfzEy7xIZKCVGykr7Mb7CIVTsOltKbKwd3Ea/s280/argentinisima-2023-svg.png" group-title="Regional",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://image.pngaaa.com/721/2833721-middle.png" group-title="Regional", Mix TV
