@@ -334,15 +334,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 http://190.106.134.222:8385/stream
 
 #EXTINF:-1 tvg-id="Radio Rivadavia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",Radio Rivadavia
-https://musicsrc.cvattv.com.ar/RRIV
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 
 #EXTINF:-1 tvg-id="Radio La 100" tvg-logo="https://cdn.brandfetch.io/idOtKLyX8K/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Radios",Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
-#EXTINF:-1 tvg-id="Radio Aspen 102.3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios",ASPEN 102.3
+#EXTINF:-1 tvg-id="Radio Aspen 102.3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmCTLRePckaNuaJwWvb9O6OQOplZlBS8TjMJDeeGWLifXfVqcBpj3TOzHkG_kdTybFFO72vrT2DbDfXg3b0Li0XaFB0Q40Dvw3NJqiIqvEAPZn_v-csa_Ag5vY8bLgk8jfTd3XUnTjIAwr8ED9U_qTWI-liF6MylRaMFza0GiNRR87YL9KZrt_97x1/s165/aspen-20.png" group-title="Radios",ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="" group-title="Radios","Radio La Red AM590
+#EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtMdZqO8rOa9yd1cLU5cvaXKtXgHvQM5Xr-JHX9oVVdFkxNSh7GGUIGIioZrmAhTpLGvLaZ9xKZ_3aS2-guDkPsEj5EQ_bYBbukkl_DI3yvBEallrk7cqvcQVLC40VAny1PAC9VumBY_4NdqPCJpJk94Ng6e-335T67fs2GPjTNs9Bs-Ndb8k-U_n34Gg/s967/continental-2025-go.png" group-title="Radios","Radio La Red AM590
 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
 
 #EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
