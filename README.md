@@ -84,7 +84,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT en Español" tvg-logo="https://telechancho.github.io/tvlogos/RT.png" group-title="Regional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://img.favpng.com/18/5/2/logo-tyc-sports-brand-trademark-png-favpng-rQvAXe2sEfkjKNSSBBH8FZ77d.jpg" group-title="Deportes",TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9trZ0wygnYLwPRLvbfYe0FV1rVxbdkBfG_6E_Q2gXbGbzWXsBUnBCIXn9eH0Yj5lDulBeodgciFnpJWKWYqwVIjIjj23u4Ew3FjVPlO_x27y27b9qaoQrr1aa07c1YYe41OlzmGf6fkDqu2-ssY6sTPcqJStLgqV48dkOs7CLRTKxFM0FFdiIZGXWOs8/s231/tycsp-2026.png" group-title="Deportes",TyC Sports
 https://broker.cdn.rcs.net.ar/mnp/tzeohupdr68s7sld3fejjidm9e2hxjoe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbXuKOtCAFkMLw7TVdOEsuJTmZW55hbDEVWQWGA2UTkgkHDAYAtsiRL5_f5PGq-7unNvP25zjxbK2hLV0C_dr-4TGDixhVTamUpsjIZ9X1JUfAEoZLPFiMheLQpeAM7WqxCujpnTkhUtDIJzvKTx0thvKVFyo_LcEQTh0hdQm8okkhTE2zBmBZ7M_/s3084/DeporTV-2020.png" group-title="Deportes",DeporTV
