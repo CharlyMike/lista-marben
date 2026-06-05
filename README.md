@@ -330,20 +330,15 @@ https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image52393017150.jpg" group-title="Infantiles",Retro Mágico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",RIVADAVIA
+#EXTINF:-1 tvg-id="Radio Rivadavia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",RIVADAVIA
 https://musicsrc.cvattv.com.ar/RRIV
 
-#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idOtKLyX8K/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Radios",Radio La 100
+#EXTINF:-1 tvg-id="Radio La 100" tvg-logo="https://cdn.brandfetch.io/idOtKLyX8K/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Radios",Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios",ASPEN 102.3
+#EXTINF:-1 tvg-id="Radio Aspen 102.3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios",ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
+#EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
 https://musicsrc.cvattv.com.ar/RRIV
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUWIzM2N0svbjRfM_qenMjlj9qTZFAifP5rsp1Bg5MKC0L2ebI9dkLckvllO1AF-96hS3RMoqCCSuBl_m3RT02kOSOT112A0RCAkTjl8fV_XMWCWn75oWfNi39vK5m9qxJ0C-RWggmEo/s1600/playbolytvla-2012.png" group-title="Adultos",Playboy
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Playboy.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY8G4UTBXuAtmjJkVhzjh5Yfvn3II_vRwbBT87Sx-lGHehhD3cR5uq-ioCObQ-ge02lU8SruDsVtW8Ct6qM3n_1pTbD3vlEjTN6OaU9FUPQQfjBjxT83eEp08mQnILHwFgOXvEomezZeU/s280/hustlertv.gif" group-title="Adultos",Hustler
-https://cdn.cvattv.com.ar/live/c7eds/Hustler/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Hustler.mpd
