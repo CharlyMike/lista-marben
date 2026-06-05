@@ -25,7 +25,7 @@ http://live.btv.mx:2424/stream/278759/smAVz_uhytj5REM-4pYNZbkrcB2
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s223/tn.png" group-title="Noticias",Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-id="La Nación" tvg-name="La Nacion" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagOUGI6mYsjfV__VlNxoGT9WD-J-R_VJsryt7qGsrH3W194WLEudyK57rg27s27CpFuBU1U3jI21INplrlw35MRBg7HnoXg0JOwXPejr3x2Q_FyDgVOdDKs7MR40C_TDji7jomapCBybb7OH8D_wS4aDVYj1shi7lJ8DA8hWARu2iZg2sawkdcW7p/s544/LANACION-MAS.png" group-title="Noticias",La Nación
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd
