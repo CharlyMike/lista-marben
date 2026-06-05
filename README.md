@@ -192,7 +192,7 @@ https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/sa_dash_full_e_7CF9BB041AD89713AD8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDQ-27bdrzrNw5olkhAYisq9HjrJO-ez6zRUY6T9OrmWnqN7GDIT2RfgPVl62dFvtPL4w4FMWru_8gbRl9av2mxIYw9a3OFjTRB3dC-BWnQEmvA9Ewe9ZoZDUiyX1nJgmXqR028lJSzwe/s1600/cinemax-2014.png" group-title="Cine y Series",Cinemax
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Cinemax.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1spTOlXeAUnKqjzSenF_cvcueszo_p1LCBtKipJ_SO1M-ko20pL8OWWnxDL309QO1Wff6MSTXo-4ulpcbcoRDovAiAokjzCDGqyaCde8AaMDKTdakJUbPO3BnbaBKgbggn0DY2C_4Jw/s170/volver-2016.png" group-title="Cine y Series",Volver
+#EXTINF:-1 tvg-logo="https://github.com/MatiasBasado22/logostv_mundo/blob/main/Argentina/volver@2x.png?raw=true" group-title="Cine y Series",Volver
 https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Volver.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidcDRsiGdAztCZGVk1FvwSUkU1sOYf9pK4cFXCAXQHGdLqSLR0MmJLAlaPx6entdLOIfx6JNxpS9kdktzFECRxa29usDglYDS5R55ovWpcrkFC7ywamurROwAVupJ_6R7ewUE9LGsX9bUYNfY0hfB9-al6M-qSuYtDQKOpa72j49oz6Mv7cZ3FQnwA=s800" group-title="Cine y Series",Space
