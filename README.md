@@ -60,6 +60,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD
 #EXTINF:-1 tvg-id="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png" group-title="Regional",Canal de la Ciudad
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="Canal E" tvg-logo="https://files.catbox.moe/h069t6.webp" group-title="Regional",Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag2IYhQ84VHo5cPDG2GzgRhXxCx71cGl3SmrNDFoDGxfK-DlAQHL5mEgJBFyfFyAGTCpWlfSU8VfYzBFQMIcNcOfV53vLVpGwXoePCLwF1iQ3IprsYO6qSbgW5M3bRtTmrtPHgjDJmf3f1cP0zZubS6nS8aRrI9klOQ2rMxbN8nL90RoW5uQcFEb/s1728/cnne.png" group-title="Regional",CNN en Español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
 
