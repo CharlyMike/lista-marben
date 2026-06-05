@@ -342,7 +342,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="Radio Aspen 102.3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios",ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKpRSRTgzjXF3WKjQFzuDHtL99tDUY5sp4ITF8gnw6g&s" group-title="Radios","Radio La Red AM590
+#EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="" group-title="Radios","Radio La Red AM590
 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
 
 #EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cdn-profiles.tunein.com/s25151/images/logog.png?t=160521" group-title="Radios", Radio Mitre
