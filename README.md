@@ -343,8 +343,8 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1719_Retroclub.png" group-title="Música",Retro Club
 https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Radio Brava 104.7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER0zjWYcO1lpRKo0o-Q2UvJS8RgghRq3Glutya1qAvQ&s" group-title="Infantiles",Radio Brava 104.7
-http://190.106.134.222:8385/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER0zjWYcO1lpRKo0o-Q2UvJS8RgghRq3Glutya1qAvQ&s",Radio Brava 104.7
+http://190.106.134.222:8385/stream
 
 #EXTINF:-1 tvg-id="Radio Rivadavia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEoGPz5iAgd7c6BEh8g8G4KM_ICypSJM5SkZ3tl5i3ACKywd3ZVHA0Kpc&s=10" group-title="Radios",Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
