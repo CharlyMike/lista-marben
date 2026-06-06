@@ -108,7 +108,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s2560/espn4.png" group-title="Deportes",ESPN 4
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://i.ibb.co/yBq9TTHr/libertadores.png" group-title="Deportes",FOX Sports
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAdcPH5aK4RA9Q3o78d-nBsYii80x0-F0NO4j6Jj4N-BWITMxKx4kCA3pqJ0Y2cNmx_04IweBr055IB58rjG8yxOukqTQQNhzQMquJ6gXYkj67-3hxatG_CzN63IjJK6RSHv4RDmjlWLrFdLSkDsarXmSxKlMFKkcio5l1qw45oU23-gk1_DuGbQ0LvwI/s960/Fox_Sports2026.png" group-title="Deportes",FOX Sports
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd
 
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYXMelDQLsMBcGvwtZ0Vj4kRJtk-7fmN116uvUUrSpp0l6TG0VsvFs1UMsvRmnFV5NMKk89WJ_eFWl13qRKbf-ihvC7buwt-b1alyuwHCHatiLCE3xvAqeZ2ZUTHC9uQOHSQOAIj9Liy9oBPpXjjhgw9XCQce19U0HU_4phP9FNXX57S2EIS96JSMk6s/s200/fox-sports-2-argentina.png" group-title="Deportes",FOX Sports 2
@@ -156,6 +156,9 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041A
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvn_7ibzl_9CIsNQfahpuTm9lmA1dnpLiFGSc4only9RhmFm2xzGh09bvWQuPhi0mUArMHfwSdy--X07zBpY9fD4RGGs_-xGg3cb1Afx9Wy8GFNUc2K2MRRr_mfUtUjlXlysDiP5IpHQSV7G_eBh8KhKVaEdjWGOJBU2pcVCwKBO52sp-9mzDvIZt/s331/d-turbo.png" group-title="Documentales",Discovery Turbo
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image52393017150.jpg" group-title="Infantiles",Retro Mágico
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAA4Rih4Yxic1IslxQLA15HbYqqNGRWuzpBFcqhbTnJ9KOnYBf5B1v3JEvXKaffLopFRREJjpJefdXvrEEzKN-KPgo2sWTFEOWvDwL1cEdfvde_M9b3YBDivfRu3NXBWReUxekg89HVBFS2hIEIhstXTNCv51lMKGCc0zagroDWqhxzfw2OEOvmb4d6a0/s287/pakapaka-2024.png" group-title="Infantiles",PAKA PAKA
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PAKA_PAKA.mpd
@@ -337,8 +340,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/sa_dash_full_e_7CF9BB041A
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-qg2tB_v6StJZbuaI3-WE5P1_KRTNcEhepLpD4B6Vq2I23B7lIfXI7iSHTnpQdfRwYo15x4R8aCbcY_7ZPoJR2wJwUE5wKB4nNKVqLtLIz6v3XBmZLZsIDfTbERoSHSsw5lxmYtC1RHYlvAJcgALNyQaxby7NQiAmg62NfY8WQRm3kcc6idfKGAFf/s1920/lifetime.png" group-title="Cine y Series",Lifetime
 https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image52393017150.jpg" group-title="Infantiles",Retro Mágico
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música",Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1719_Retroclub.png" group-title="Música",Retro Club
+https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Radio Brava 104.7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER0zjWYcO1lpRKo0o-Q2UvJS8RgghRq3Glutya1qAvQ&s" group-title="Infantiles",Radio Brava 104.7
 http://190.106.134.222:8385/live
