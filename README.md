@@ -148,7 +148,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/sa_dash_full_e_7CF9BB041AD89713AD
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAdcPH5aK4RA9Q3o78d-nBsYii80x0-F0NO4j6Jj4N-BWITMxKx4kCA3pqJ0Y2cNmx_04IweBr055IB58rjG8yxOukqTQQNhzQMquJ6gXYkj67-3hxatG_CzN63IjJK6RSHv4RDmjlWLrFdLSkDsarXmSxKlMFKkcio5l1qw45oU23-gk1_DuGbQ0LvwI/s960/Fox_Sports2026.png" group-title="Deportes",Fox Sports Premiun HD
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBoGNFQCe-r47PA653655oDuwtAyKw59NOm05Pd09CpG9XFWiHyJFWFZ6eT3w9vJCWn9WQbbksMr6UoJRPR7XkI3_yf1Ckk9uRBW8ncyWI3y6PYUCvvvvl-eWfIfKJ9WwbzECUxMFBDoFNAjlp0wxTjpcie5jx1yzxdkerYSvZXltT_TcRza1IzAMSlCY/s512/TNT_Sports-2024.png" group-title="Deportes",TNT Sports HD
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" group-title="Deportes",TNT Sports HD
 http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPy4rebCSMiU4y7HKK71UtXuG11tiKXZ7ZzPe_MHHqSpNwxJp46LEX9Nv0ziwo09_yFu-GsOlzxQOB7q3QGXPt4LoVaXgSpXYveD7vJME1PGdlSgcMmt-YYzM8YmHbSxFWBk07cfZLFrzS5hOHWqxwIpqdvRb9Q8pDos_TyIcffdkm5SXVgoztudqngtA/s3191/tyc-2022.png" group-title="Deportes",TyC Internacional
