@@ -145,7 +145,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" group-title="Deportes",TNT Sports HD
 http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ" group-title="Deportes",ESPN Premium
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="Deportes",ESPN Premium
 https://lilac01.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvn_7ibzl_9CIsNQfahpuTm9lmA1dnpLiFGSc4only9RhmFm2xzGh09bvWQuPhi0mUArMHfwSdy--X07zBpY9fD4RGGs_-xGg3cb1Afx9Wy8GFNUc2K2MRRr_mfUtUjlXlysDiP5IpHQSV7G_eBh8KhKVaEdjWGOJBU2pcVCwKBO52sp-9mzDvIZt/s331/d-turbo.png" group-title="Documentales",Discovery Turbo
