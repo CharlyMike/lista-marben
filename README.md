@@ -316,7 +316,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/sa_dash_full_e_7CF9BB041AD89713AD8C
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOG-jF3XwZq0Zl_AE5Q84oJOL86Wr02_ZbaxyOAfRnq7RaDBGUL3XhMYJEJvl_aWrYPh5pQNN5Zn9Q9fl0dtWaIjvitGUeHi76ZSAlufVO7ag5eTi5M9SV90xhi1PsUAN0k2OfS_F_gWo/s120/hbo-xtreme.png" group-title="HBO",HBO Extreme
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/20/1001/png-clipart-logo-hbo-brasil-hbo-family-graphics-hbo-plus-famili-text-logo-thumbnail.png" group-title="HBO",HBO Family
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/335.png" group-title="HBO",HBO Family
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Family.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMDEiPUapI0q6wSDS-kmpdTCUqEVDgkdhOWjgdkjcxAXzLKuhmZYid2jiKY3Ihlt2XabO3uZTl33sHrSnwcpO0xRicPqjfj90-D5_-XMh2WXvHJ9JCZPmxYqoYyIrqHDlQq5PBSnffCSw/s1600/hbo-signature.png" group-title="HBO",HBO Signature
