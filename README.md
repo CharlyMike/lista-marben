@@ -139,20 +139,14 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYOdaj8OI6UolUjTH-vvhtgQ2QY2gtc4giTopje2xLnApV6x3sTi40kL5EFuCdD7gqdH2pdHuhmYQx7Nx2emNwT8jwYJbzTHSqw5wwXm6ShJ1FeSG2R3qP7mbXof244z_Vi4twN0I2MZQl-QkhdLzzc9IG4nw70dnd9e_IRp0jnYAAIu2AMP7qWZTA/s544/AMERICA-SP.png" group-title="Deportes",America Sports
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_Sports.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOITtxVqvkeur8P07gwCPWJTYrVpo4k8yNFyEEkzLuWCIyc9_0NV2SM8HLm2n2-sUX-bZ45IGuDBE2XGS2hHErl8bDsaS-Dkx3rW6uf_TtMi0UtjH1AoFawLCRaftLnnXWdkrO4yjXcW6xOMJ9W-7G3XzZf4mgWDGnru_ZMJHy8vu_Cvtmh_XCwL9/s2560/flow-2021.png" group-title="Deportes",Eventos1HD
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos1HD.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOITtxVqvkeur8P07gwCPWJTYrVpo4k8yNFyEEkzLuWCIyc9_0NV2SM8HLm2n2-sUX-bZ45IGuDBE2XGS2hHErl8bDsaS-Dkx3rW6uf_TtMi0UtjH1AoFawLCRaftLnnXWdkrO4yjXcW6xOMJ9W-7G3XzZf4mgWDGnru_ZMJHy8vu_Cvtmh_XCwL9/s2560/flow-2021.png" group-title="Deportes",Eventos 2 HD
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_2_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOITtxVqvkeur8P07gwCPWJTYrVpo4k8yNFyEEkzLuWCIyc9_0NV2SM8HLm2n2-sUX-bZ45IGuDBE2XGS2hHErl8bDsaS-Dkx3rW6uf_TtMi0UtjH1AoFawLCRaftLnnXWdkrO4yjXcW6xOMJ9W-7G3XzZf4mgWDGnru_ZMJHy8vu_Cvtmh_XCwL9/s2560/flow-2021.png" group-title="Deportes",Eventos 3
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos_3.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAdcPH5aK4RA9Q3o78d-nBsYii80x0-F0NO4j6Jj4N-BWITMxKx4kCA3pqJ0Y2cNmx_04IweBr055IB58rjG8yxOukqTQQNhzQMquJ6gXYkj67-3hxatG_CzN63IjJK6RSHv4RDmjlWLrFdLSkDsarXmSxKlMFKkcio5l1qw45oU23-gk1_DuGbQ0LvwI/s960/Fox_Sports2026.png" group-title="Deportes",Fox Sports Premiun HD
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" group-title="Deportes",TNT Sports HD
 http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ" group-title="Deportes",ESPN Premium
+https://lilac01.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvn_7ibzl_9CIsNQfahpuTm9lmA1dnpLiFGSc4only9RhmFm2xzGh09bvWQuPhi0mUArMHfwSdy--X07zBpY9fD4RGGs_-xGg3cb1Afx9Wy8GFNUc2K2MRRr_mfUtUjlXlysDiP5IpHQSV7G_eBh8KhKVaEdjWGOJBU2pcVCwKBO52sp-9mzDvIZt/s331/d-turbo.png" group-title="Documentales",Discovery Turbo
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd
