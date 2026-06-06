@@ -45,6 +45,9 @@ https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_7
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj3wEquC2ULqxlDddF7UoEIPnl8a5ysiEvHZbnZIgaZpk3i4Y-EzpDJMFytP-6HBfupUk-B-7dTKy3-5ilPdMLn-nkpH1NPIEiTgDsdSl3EpNGpVxGDvnGbXxcH1MAP2kzAvSC4nif6iiJDmiVL4SD7v6jIsmNBf2Q2uwUkiPFys-pbPQCzI-q-FNse" group-title="Regional",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="General",Bayres TV SD
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ciudad Magazine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVZGqjU3gB6_G1dS3cQfJnFmfVzdLCrVBTAmyXeYNMByaCC38TnohtperQIyZdCHRi1PfMwyKix16TUvG7ny2jI303ac_vM3-p4dWtbKxvABW8o69-KVSR1xvpf_2DgcpJlqd6goIdOk/s1600/ciudadmagazine.png" group-title="Regional",Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
