@@ -111,13 +111,13 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s2560/espn4.png" group-title="Deportes",ESPN 4
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAdcPH5aK4RA9Q3o78d-nBsYii80x0-F0NO4j6Jj4N-BWITMxKx4kCA3pqJ0Y2cNmx_04IweBr055IB58rjG8yxOukqTQQNhzQMquJ6gXYkj67-3hxatG_CzN63IjJK6RSHv4RDmjlWLrFdLSkDsarXmSxKlMFKkcio5l1qw45oU23-gk1_DuGbQ0LvwI/s960/Fox_Sports2026.png" group-title="Deportes",FOX Sports
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="Deportes",FOX Sports
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYXMelDQLsMBcGvwtZ0Vj4kRJtk-7fmN116uvUUrSpp0l6TG0VsvFs1UMsvRmnFV5NMKk89WJ_eFWl13qRKbf-ihvC7buwt-b1alyuwHCHatiLCE3xvAqeZ2ZUTHC9uQOHSQOAIj9Liy9oBPpXjjhgw9XCQce19U0HU_4phP9FNXX57S2EIS96JSMk6s/s200/fox-sports-2-argentina.png" group-title="Deportes",FOX Sports 2
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1606.png" group-title="Deportes",FOX Sports 2
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd
 
-#EXTINF:-1 tvg-id="FOX Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXlr-aZPoHcS9gQ_1TQy2O1DXBd9UQxl8_hBU_2V5yaqD_aQE02S5eKKGDJXaIheSUV8lwjH0qOnsURXtvC-rQKMyNCp3kepe8hn37Zr97mNwD_kMveUUfsihWIBwVx-giODw9HttkO0hSRs8c8Fbm38c_lUAwBsRKsTOSQfFu97QX0vEd8yP692f/s200/fsp3-2023.png" group-title="Deportes",FOX Sports 3
+#EXTINF:-1 tvg-id="FOX Sports 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/607.png" group-title="Deportes",FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd
 
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Y74v8BbyDJEKpGH9jZU4T0gP9nuvB5VTfaq6pEktHRe6JDeSJMQuBqdHPsneesfn4PPcV12UcUkY8Buv18PgELZWSgQWw-xBkR-JnEuJsjKYi48PRSVHalI38R5VZjLba1HzLzlr_Y/s1600/nbatv-2009.gif" group-title="Deportes",NBA TV
