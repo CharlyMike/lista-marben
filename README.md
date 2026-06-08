@@ -7,7 +7,7 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/li
 https://www.youtube.com/embed/Vh8xmLBJtR8
 
 #EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="Regional",Metro
-https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd
+http://181.13.252.102:8000/play/a02g/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="América TV" tvg-name="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="Regional",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
