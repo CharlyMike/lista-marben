@@ -64,7 +64,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png" group-title="Regional",Canal de la Ciudad
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+http://181.13.252.102:8000/play/a06e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal E" tvg-logo="https://files.catbox.moe/h069t6.webp" group-title="Regional",Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
