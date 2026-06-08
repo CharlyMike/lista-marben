@@ -12,6 +12,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4
 #EXTINF:-1 tvg-id="América TV" tvg-name="América TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="Regional",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-id="TELEFE HD" tvg-name="TELEFE HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE HD
+http://181.13.252.102:8000/play/a06c/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="TELEFE Santa Fe" tvg-name="TELEFE Santa Fé" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE Santa Fe
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
