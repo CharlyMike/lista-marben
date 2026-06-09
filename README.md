@@ -69,6 +69,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="Caras TV | AR" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" group-title="Regional",Caras TV | AR
 https://unlimited1-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tierramia TV | AR" tvg-logo="https://cdn.m3u.cl/logo/294_Tierramia_TV.png" group-title="Regional",Tierramia TV | AR
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 #EXTINF:-1 tvg-id="Unife TV" tvg-logo="https://files.catbox.moe/505e9l.png" group-title="Regional",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
