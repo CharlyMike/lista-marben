@@ -45,6 +45,9 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="America 24" tvg-name="TELEFE HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4_EDrIzSRgg1JztU3NtSO59enD3wh7b3LHdcSSCkoaLJbVOs_s90X7g-of6P_XtjRtuEAL3TQA8A-Tmg_OJqefs-Ol9Lb28kQhziiYXW4XA0b7blqj6q_ViyndF9grjoTA8e84hrXh_Q7pIf1aUzzH_yRkjC58fsclM_Vnz26GIibOfnFgAmmiulKNc/s312/a24-2025.png" group-title="Noticias",America 24
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
+#EXTINF:-1 tvg-id="24/7 Canal de Noticias" tvg-name="24/7 Canal de Noticias" tvg-logo="https://cn247.tv/wp-content/uploads/2021/10/logo-rounded-247.png" group-title="Noticias",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj3wEquC2ULqxlDddF7UoEIPnl8a5ysiEvHZbnZIgaZpk3i4Y-EzpDJMFytP-6HBfupUk-B-7dTKy3-5ilPdMLn-nkpH1NPIEiTgDsdSl3EpNGpVxGDvnGbXxcH1MAP2kzAvSC4nif6iiJDmiVL4SD7v6jIsmNBf2Q2uwUkiPFys-pbPQCzI-q-FNse" group-title="Regional",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
