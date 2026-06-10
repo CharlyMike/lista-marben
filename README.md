@@ -129,7 +129,7 @@ http://181.13.252.102:8000/play/a076/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Deportes",ESPN 5
 http://181.119.185.32:8000/play/a00n/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg" group-title="Deportes",ESPN 6
 http://181.119.185.32:8000/play/a01x/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
