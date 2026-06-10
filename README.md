@@ -115,25 +115,25 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041A
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
-http://live.btv.mx:2424/stream/283887/smAVz_uhytj5REM-4pYNZbkrcB2
+http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd
+http://181.13.252.102:8000/play/a059/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
-https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd
+http://181.13.252.102:8000/play/a05b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s2560/espn4.png" group-title="Deportes",ESPN 4
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
+http://181.13.252.102:8000/play/a076/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="Deportes",FOX Sports
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd
+http://181.13.252.102:8000/play/a07j/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1606.png" group-title="Deportes",FOX Sports 2
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd
+http://181.13.252.102:8000/play/a05c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FOX Sports 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/607.png" group-title="Deportes",FOX Sports 3
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd
+http://181.13.252.102:8000/play/a02t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Y74v8BbyDJEKpGH9jZU4T0gP9nuvB5VTfaq6pEktHRe6JDeSJMQuBqdHPsneesfn4PPcV12UcUkY8Buv18PgELZWSgQWw-xBkR-JnEuJsjKYi48PRSVHalI38R5VZjLba1HzLzlr_Y/s1600/nbatv-2009.gif" group-title="Deportes",NBA TV
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd
