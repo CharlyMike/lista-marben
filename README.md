@@ -82,7 +82,7 @@ http://181.13.252.102:8000/play/a06e/index.m3u8?hls
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag2IYhQ84VHo5cPDG2GzgRhXxCx71cGl3SmrNDFoDGxfK-DlAQHL5mEgJBFyfFyAGTCpWlfSU8VfYzBFQMIcNcOfV53vLVpGwXoePCLwF1iQ3IprsYO6qSbgW5M3bRtTmrtPHgjDJmf3f1cP0zZubS6nS8aRrI9klOQ2rMxbN8nL90RoW5uQcFEb/s1728/cnne.png" group-title="Regional",CNN en Español
-https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CNN_en_Espanol.mpd
+http://181.119.185.32:8000/play/a01k/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Investigacion Periodistica" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="Regional",Investigacion Periodistica
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd
@@ -173,7 +173,7 @@ http://190.7.19.197:232/play/a037/index.m3u8
 http://190.7.19.197:232/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvn_7ibzl_9CIsNQfahpuTm9lmA1dnpLiFGSc4only9RhmFm2xzGh09bvWQuPhi0mUArMHfwSdy--X07zBpY9fD4RGGs_-xGg3cb1Afx9Wy8GFNUc2K2MRRr_mfUtUjlXlysDiP5IpHQSV7G_eBh8KhKVaEdjWGOJBU2pcVCwKBO52sp-9mzDvIZt/s331/d-turbo.png" group-title="Documentales",Discovery Turbo
-https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd
+http://181.119.185.32:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image52393017150.jpg" group-title="Infantiles",Retro Mágico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
