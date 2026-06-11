@@ -385,7 +385,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
 #EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/logo/logo.svg" group-title="Radios", Radio Mitre
 https://buecrplb01.cienradios.com.ar/Mitre790.aac
 
-#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/4/43/Metro951.png",Radio Metro
-http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTINF:-1 tvg-logo="https://worldradios.app/upload/1763831390_1.jpg",Radio Infinita 98.5mhz
+https://cdn.instream.audio/:8225/stream
 
 
