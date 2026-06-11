@@ -275,7 +275,7 @@ http://181.13.252.102:8000/play/a020/index.m3u8?hls
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlekb3wmz32jSlTYKlQCI4U1g89JGjvXL8mKvVuqaiAUZT4YjC-v-LRlZNpAiXMlDVjjzi7FissVD_5_H8PeIBA7SzhpfuBwtnbROXDARmACJy7wCLQE-O1Wd-c2TjKU_sKbPNVEP43I/s1600/AMC_2016.png" group-title="Cine y Series",AMC Series
-https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC_Series.mpd
+http://181.13.252.102:8000/play/a02y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwb00M9tVOjdc4iDk1EiZahMWRJQuuT1cjRmbn59YjX-hWskp4Ithp2e6Tyr-acg7Sez2xoAfIjM31amo5iWktJjBxulCctLzJEM0ZlfbVvDz1Muy2Ci5YFyLbyi6GlHRphaTGspZ5bfM/s120/a3series-2020.png" group-title="Cine y Series",A3 Series
 https://cdn.cvattv.com.ar/live/c7eds/A3_Series/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A3_Series.mpd
@@ -296,7 +296,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ID/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/
 http://181.13.252.102:8000/play/a02x/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/158/674/png-transparent-paramount-s-hollywood-logo-film-company-others-thumbnail.png" group-title="Cine y Series",Paramount
-http://181.13.252.102:8000/play/a02y/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg62zQjQhVMZynj_h_k2VQazcaMYjvLE6DvKcLDah5LbdHwEHkl3jIj0KvhCvxAPGuegemjzWsPyv-FH54kYEuvUaxIpWI9jhBvewjV7gWQGyAUYPZsKDKpBPg49JERuXgSbJd_QACyIya9WErrf0iUgLu5Fxsd5keyzW0wtGZx1zwgY55bc9MZ3UqX=s245" group-title="Cine y Series",A3 Cine
 https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A3_Cine.mpd
