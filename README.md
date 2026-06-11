@@ -382,8 +382,8 @@ https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio La Red AM590" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtMdZqO8rOa9yd1cLU5cvaXKtXgHvQM5Xr-JHX9oVVdFkxNSh7GGUIGIioZrmAhTpLGvLaZ9xKZ_3aS2-guDkPsEj5EQ_bYBbukkl_DI3yvBEallrk7cqvcQVLC40VAny1PAC9VumBY_4NdqPCJpJk94Ng6e-335T67fs2GPjTNs9Bs-Ndb8k-U_n34Gg/s967/continental-2025-go.png" group-title="Radios","Radio La Red AM590
 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
 
-#EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/logo/logo.svg" group-title="Radios", Radio Mitre
-https://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:-1 tvg-id="Radio Mitre" tvg-logo="https://radioarg.net/storage/radios/7836/75812/conversions/QhbwXgiQccRdIkw2GuGftyCVVBm4cn-metaU2NyZWVuc2hvdF8yLnBuZw==--lg.webp" group-title="Radios", Radio Montecristo 03.7mhz
+https://icecast.grupoamericainterior.com.ar/Monte
 
 #EXTINF:-1 tvg-logo="https://worldradios.app/upload/1763831390_1.jpg",Radio Infinita 98.5mhz
 https://cdn.instream.audio/:8225/stream
