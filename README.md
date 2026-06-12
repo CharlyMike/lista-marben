@@ -63,19 +63,19 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://images.open-epg.com/16782303.png" group-title="Regional",Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Encuentro.mpd
 
-#EXTINF:-1 tvg-id="Bravo TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqoFy6uRZnJz870K2E_mzQgp7xOKycxxdAKiEwMYMGpiJ1VgZI7BnaYaxd8sRHr9YnSo_nHE6LqZzLAhZ2farKbdQMESQKvQVWVlBFZsUCfnbFIYUrgR2xvywyaU6XkCSI5TK65nK6qeaZMmucJytcEmPqJVIWSepGfk6ZB9uiMzx88nDoBAH2FE8KICU/s83/bravotv-transp.png" group-title="Regional",Bravo TV
+#EXTINF:-1 tvg-id="BravoTv.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqoFy6uRZnJz870K2E_mzQgp7xOKycxxdAKiEwMYMGpiJ1VgZI7BnaYaxd8sRHr9YnSo_nHE6LqZzLAhZ2farKbdQMESQKvQVWVlBFZsUCfnbFIYUrgR2xvywyaU6XkCSI5TK65nK6qeaZMmucJytcEmPqJVIWSepGfk6ZB9uiMzx88nDoBAH2FE8KICU/s83/bravotv-transp.png" group-title="Regional",Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 
-#EXTINF:-1 tvg-id="Caras TV | AR" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" group-title="Regional",Caras TV | AR
+#EXTINF:-1 tvg-id="CarasTv.ar | AR" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" group-title="Regional",Caras TV | AR
 https://unlimited1-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tierramia TV | AR" tvg-logo="https://cdn.m3u.cl/logo/294_Tierramia_TV.png" group-title="Regional",Tierramia TV | AR
+#EXTINF:-1 tvg-id="TierramiaTv.ar | AR" tvg-logo="https://cdn.m3u.cl/logo/294_Tierramia_TV.png" group-title="Regional",Tierramia TV | AR
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
-#EXTINF:-1 tvg-id="Unife TV" tvg-logo="https://files.catbox.moe/505e9l.png" group-title="Regional",Unife TV
+#EXTINF:-1 tvg-id="UnifeTv.ar" tvg-logo="https://files.catbox.moe/505e9l.png" group-title="Regional",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png" group-title="Regional",Canal de la Ciudad
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://files.catbox.moe/ql9rbg.png" group-title="Regional",Canal de la Ciudad
 http://181.13.252.102:8000/play/a06e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://files.catbox.moe/h069t6.webp" group-title="Regional",Canal E
