@@ -15,7 +15,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE HD
 http://181.13.252.102:8000/play/a06c/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Telefe.ar Santa Fe" tvg-name="Telefe.ar Santa Fé" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE Santa Fe
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-name="TelefeSantaFe.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0igtqKbFuN7USGfZTONxozgAwIqdIsEv4xZq5cRILEPRqvYvvOFJle-MhCymwlaZ6KWv9g8gjfxuatW3_-2K-y4I_rM5-h7mW1cYn_E9h_j_olw-FF476dOBPlEy-Z2Iq60s8hX_piED5MQbpv4B6u7Clb1IBvFUpmPfgZLdn_68kDD8O-GlWO2H-/s821/Telefe-2018.png" group-title="Regional",TELEFE Santa Fe
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Regional",TV Pública
