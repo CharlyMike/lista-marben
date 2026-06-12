@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Argentina/argentina1.xml,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml.gz,https://www.tdtchannels.com/epg/TV.xml" 
 
-#EXTINF:-1 tvg-id="Elnueve.ar" tvg-name="Elnueve.ar" tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/tvlogos/9Televida.png" group-title="Mendoza",Canal 9 Televida
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal9Televida.ar" tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/tvlogos/9Televida.png" group-title="Mendoza",Canal 9 Televida
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Siete TV" tvg-name="El Siete TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Mendoza",El Siete TV
