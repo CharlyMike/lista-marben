@@ -6,7 +6,7 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="El Siete TV" tvg-name="El Siete TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Mendoza",El Siete TV
 https://www.youtube.com/embed/Vh8xmLBJtR8
 
-#EXTINF:-1 tvg-id="Metro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="Regional",Metro
+#EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4F6EeIgAUc3DNiqyhhQAvDI6ujWZzHpF6vhfhPqATnbL0Z_bHLI2Kl0MFRLoZJJE79lZnhMDRBW_aBlNW3OwViEDAU81PwP45IGtJ91yMk6zy5I7WYlvgKLBTbbLsqPKhU4tBlz7HG0U/s1600/metro.png" group-title="Regional",Metro
 http://181.13.252.102:8000/play/a02g/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AmericaTV.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s745/america-logo2020.png" group-title="Regional",América TV
