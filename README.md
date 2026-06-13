@@ -149,6 +149,18 @@ http://181.13.252.102:8000/play/a02t/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="DSports" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DSportsAll",DSports P+
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
+#EXTINF:-1 tvg-id="" tvg-name="DSports2" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="DSportsAll",DSports2 P+
+https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
+#EXTINF:-1 tvg-id="" tvg-name="DSports+" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="DSportsAll",DSports+ P+ 
+https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Y74v8BbyDJEKpGH9jZU4T0gP9nuvB5VTfaq6pEktHRe6JDeSJMQuBqdHPsneesfn4PPcV12UcUkY8Buv18PgELZWSgQWw-xBkR-JnEuJsjKYi48PRSVHalI38R5VZjLba1HzLzlr_Y/s1600/nbatv-2009.gif" group-title="Deportes",NBA TV
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd
 
