@@ -145,7 +145,7 @@ http://181.13.252.102:8000/play/a05c/index.m3u8?hls
 http://181.13.252.102:8000/play/a02t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DirecTV Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/600.png" group-title="Deportes",DirecTV Sports
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1Y74v8BbyDJEKpGH9jZU4T0gP9nuvB5VTfaq6pEktHRe6JDeSJMQuBqdHPsneesfn4PPcV12UcUkY8Buv18PgELZWSgQWw-xBkR-JnEuJsjKYi48PRSVHalI38R5VZjLba1HzLzlr_Y/s1600/nbatv-2009.gif" group-title="Deportes",NBA TV
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NBA_TV.mpd
